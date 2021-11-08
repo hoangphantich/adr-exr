@@ -1,2 +1,3 @@
 # adr-exr
-1234
+
+This is project android for kotlin
